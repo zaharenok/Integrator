@@ -1,0 +1,1022 @@
+{
+    "questions": [
+      {
+        "question_text": "In den Jahren 1939 bis 1945 war der Zweite Weltkrieg.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "Wann gab es in Österreich eine nationalsozialistische Diktatur?",
+        "options": [
+          {"option_text": "1938 bis 1945", "is_correct": true},
+          {"option_text": "2000 bis 2011", "is_correct": false},
+          {"option_text": "1938 bis 1983", "is_correct": false}
+        ],
+        "solution": "1938 bis 1945"
+      },
+      {
+        "question_text": "Während des Zweiten Weltkriegs war das heutige Österreich Teil der nationalsozialistischen Diktatur.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "Diktatur bedeutet, dass nur eine Person oder nur eine politische Gruppe die Macht im Staat hat und alle Entscheidungen trifft.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "Nach dem Zweiten Weltkrieg waren viele Städte in Österreich zerstört.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "Die Menschen mussten zusammenhelfen, damit sich die Wirtschaft in Österreich nach dem Zweiten Weltkrieg wieder erholen konnte.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "Während der Zeit des Nationalsozialismus gab es keine Demokratie, sondern eine Diktatur. Die Menschen konnten nur eine einzige politische Partei wählen. Heute gibt es eine Demokratie. Die Menschen können verschiedene politische Parteien wählen.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "Auch wegen der Erfahrungen aus der Zeit des Nationalsozialismus sind Demokratie und Menschenrechte für die österreichische Gesellschaft heute sehr wichtig.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "In der Vergangenheit wurden auch in Österreich viele Menschen verfolgt und getötet. In der heutigen Zeit gibt es Gesetze, um Menschenrechte zu schützen. Es ist wichtig, die Menschenrechte zu schützen, damit alle Menschen in Österreich in Sicherheit leben können, egal welche Religion sie haben oder aus welchem Land sie kommen.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "Damit Demokratie funktionieren kann, ist es wichtig, dass sich viele Menschen aktiv an der Gesellschaft beteiligen und gemeinsame Entscheidungen treffen.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+    
+  
+      {
+        "question_text": "Wer in Österreich ist, muss die staatlichen Gesetze befolgen. Dabei ist es egal, woher die Person kommt.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "Wer muss die österreichischen Gesetze befolgen?",
+        "options": [
+          {"option_text": "Nur österreichische Staatsbürgerinnen und Staatsbürger.", "is_correct": false},
+          {"option_text": "Nur Christinnen und Christen.", "is_correct": false},
+          {"option_text": "Alle Menschen, die in Österreich sind.", "is_correct": true}
+        ],
+        "solution": "Alle Menschen, die in Österreich sind."
+      },
+      {
+        "question_text": "In Österreich funktioniert die Wirtschaft sehr gut, weil viele Menschen arbeiten gehen und Steuern zahlen.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "Damit Demokratie funktionieren kann, ist es wichtig, dass sich viele Menschen aktiv an der Gesellschaft beteiligen und gemeinsame Entscheidungen treffen.",
+        "options": [
+          {"option_text": "richtig", "is_correct": true},
+          {"option_text": "falsch", "is_correct": false}
+        ],
+        "solution": "richtig"
+      },
+      {
+        "question_text": "Welche Rolle spielt Vielfalt im Zusammenleben in Österreich?",
+        "options": [
+          {"option_text": "Vielfalt wird nicht geschätzt", "is_correct": false},
+          {"option_text": "Vielfalt ist nur in Großstädten wichtig", "is_correct": false},
+          {"option_text": "Vielfalt ist ein wichtiger Bestandteil des Zusammenlebens", "is_correct": true}
+        ],
+        "solution": "Vielfalt ist ein wichtiger Bestandteil des Zusammenlebens"
+      },
+      {
+        "question_text": "Was schützen Gesetze in der heutigen Zeit in Österreich?",
+        "options": [
+          {"option_text": "Nur das Eigentum der Bürger", "is_correct": false},
+          {"option_text": "Nur die Rechte der Mehrheit", "is_correct": false},
+          {"option_text": "Menschenrechte, unabhängig von Religion oder Herkunft", "is_correct": true}
+        ],
+        "solution": "Menschenrechte, unabhängig von Religion oder Herkunft"
+      },
+      {
+        "question_text": "Welche Themen umfasst der Prüfungsteil 'Werte- und Orientierungswissen' auf B1-Niveau?",
+        "options": [
+          {"option_text": "Nur Bildung und Sprache", "is_correct": false},
+          {"option_text": "Nur Arbeitswelt und Wirtschaft", "is_correct": false},
+          {"option_text": "Sieben verschiedene Themenbereiche", "is_correct": true}
+        ],
+        "solution": "Sieben verschiedene Themenbereiche"
+      },
+      {
+        "question_text": "Welches historische Ereignis war der Zweite Weltkrieg?",
+        "options": [
+          {"option_text": "1914 bis 1918", "is_correct": false},
+          {"option_text": "1939 bis 1945", "is_correct": true},
+          {"option_text": "1950 bis 1953", "is_correct": false}
+        ],
+        "solution": "1939 bis 1945"
+      },
+      {
+        "question_text": "Was gehört zur rechtlichen Integration in Österreich?",
+        "options": [
+          {"option_text": "Gesundheitsversorgung", "is_correct": false},
+          {"option_text": "Zusammenarbeit in der Nachbarschaft", "is_correct": false},
+          {"option_text": "Befolgen staatlicher Gesetze", "is_correct": true}
+        ],
+        "solution": "Befolgen staatlicher Gesetze"
+      },
+      {
+        "question_text": "Warum sind Demokratie und Menschenrechte in Österreich wichtig?",
+        "options": [
+          {"option_text": "Aufgrund der klimatischen Bedingungen", "is_correct": false},
+          {"option_text": "Aufgrund historischer Erfahrungen", "is_correct": true},
+          {"option_text": "Aufgrund der Bevölkerungszahl", "is_correct": false}
+        ],
+        "solution": "Aufgrund historischer Erfahrungen"
+      },
+
+      {
+        "question_text": "Was bedeutet der Begriff 'Diktatur'?",
+        "options": [
+          {"option_text": "Eine Regierungsform, bei der das Volk die Macht hat", "is_correct": false},
+          {"option_text": "Eine Regierungsform, bei der nur eine Person oder Gruppe die Macht hat", "is_correct": true}
+        ],
+        "solution": "Eine Regierungsform, bei der nur eine Person oder Gruppe die Macht hat"
+      },
+      {
+        "question_text": "Wie viele Kapitel gibt es im Prüfungsteil 'Werte- und Orientierungswissen' auf B1-Niveau?",
+        "options": [
+          {"option_text": "5", "is_correct": false},
+          {"option_text": "7", "is_correct": true},
+          {"option_text": "10", "is_correct": false}
+        ],
+        "solution": "7"
+      },
+      {
+        "question_text": "Welche der folgenden Aussagen ist richtig? Während des Zweiten Weltkriegs war Österreich...",
+        "options": [
+          {"option_text": "Unabhängig und neutral", "is_correct": false},
+          {"option_text": "Teil der nationalsozialistischen Diktatur", "is_correct": true},
+          {"option_text": "Ein unabhängiger Staat", "is_correct": false}
+        ],
+        "solution": "Teil der nationalsozialistischen Diktatur"
+      },
+      {
+        "question_text": "Was beinhaltet die kulturelle Integration im Prüfungsteil 'Werte- und Orientierungswissen'?",
+        "options": [
+          {"option_text": "Nur die Sprache lernen", "is_correct": false},
+          {"option_text": "Nur die Arbeitswelt verstehen", "is_correct": false},
+          {"option_text": "Das Verständnis für die Vielfalt der Kulturen", "is_correct": true}
+        ],
+        "solution": "Das Verständnis für die Vielfalt der Kulturen"
+      },
+      {
+        "question_text": "Welche Aussage ist korrekt? Demokratie bedeutet...",
+        "options": [
+          {"option_text": "Eine einzelne Person hat die absolute Macht", "is_correct": false},
+          {"option_text": "Die Macht liegt beim Volk, das durch Wahlen entscheidet", "is_correct": true},
+          {"option_text": "Die Macht liegt bei einer königlichen Familie", "is_correct": false}
+        ],
+        "solution": "Die Macht liegt beim Volk, das durch Wahlen entscheidet"
+      },
+      {
+        "question_text": "Wozu sind Menschenrechte da?",
+        "options": [
+          {"option_text": "Nur zum Schutz der Regierung", "is_correct": false},
+          {"option_text": "Zum Schutz aller Menschen, unabhängig von ihrer Herkunft oder Religion", "is_correct": true},
+          {"option_text": "Nur zum Schutz der Mehrheit", "is_correct": false}
+        ],
+        "solution": "Zum Schutz aller Menschen, unabhängig von ihrer Herkunft oder Religion"
+      },
+      {
+        "question_text": "Was ist ein wesentlicher Aspekt des Zusammenlebens in Österreich?",
+        "options": [
+          {"option_text": "Nur wirtschaftliche Zusammenarbeit", "is_correct": false},
+          {"option_text": "Respekt und Zusammenarbeit in der Nachbarschaft", "is_correct": true},
+          {"option_text": "Nur kulturelle Integration", "is_correct": false}
+        ],
+        "solution": "Respekt und Zusammenarbeit in der Nachbarschaft"
+      },
+      {
+        "question_text": "Welche Rolle spielt Bildung im österreichischen Gesellschaftssystem?",
+        "options": [
+          {"option_text": "Nur für bestimmte Bevölkerungsgruppen zugänglich", "is_correct": false},
+          {"option_text": "Freier und gleicher Zugang für alle", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Freier und gleicher Zugang für alle"
+      },
+      {
+        "question_text": "Was bedeutet der Begriff 'Vielfalt' im Kontext der kulturellen Integration?",
+        "options": [
+          {"option_text": "Nur eine Kultur ist erlaubt", "is_correct": false},
+          {"option_text": "Anerkennung und Wertschätzung verschiedener Kulturen", "is_correct": true},
+          {"option_text": "Verbot von kultureller Vielfalt", "is_correct": false}
+        ],
+        "solution": "Anerkennung und Wertschätzung verschiedener Kulturen"
+      },
+      {
+        "question_text": "Welche Prinzipien sind Teil der rechtlichen Integration in Österreich?",
+        "options": [
+          {"option_text": "Nur die Pflicht zur Steuerzahlung", "is_correct": false},
+          {"option_text": "Gleichbehandlung vor dem Gesetz und Befolgen der Gesetze", "is_correct": true},
+          {"option_text": "Nur das Recht auf Meinungsfreiheit", "is_correct": false}
+        ],
+        "solution": "Gleichbehandlung vor dem Gesetz und Befolgen der Gesetze"
+      },
+
+
+
+      {
+        "question_text": "Welches Recht haben Menschen in Österreich unabhängig von ihrer Herkunft?",
+        "options": [
+          {"option_text": "Nur das Recht auf Freizeit", "is_correct": false},
+          {"option_text": "Das Recht auf Meinungsfreiheit", "is_correct": true},
+          {"option_text": "Nur das Recht auf Arbeit", "is_correct": false}
+        ],
+        "solution": "Das Recht auf Meinungsfreiheit"
+      },
+      {
+        "question_text": "Was umfasst der Begriff 'Arbeitswelt' im Prüfungsteil 'Werte- und Orientierungswissen'?",
+        "options": [
+          {"option_text": "Nur das Recht auf Arbeit", "is_correct": false},
+          {"option_text": "Das Verständnis für das Arbeitsleben und die Berufswelt in Österreich", "is_correct": true},
+          {"option_text": "Nur das Recht auf Freizeit", "is_correct": false}
+        ],
+        "solution": "Das Verständnis für das Arbeitsleben und die Berufswelt in Österreich"
+      },
+      {
+        "question_text": "Was bedeutet der Begriff 'Gesundheit' im Kontext der Integration in Österreich?",
+        "options": [
+          {"option_text": "Nur das Recht auf Medikamente", "is_correct": false},
+          {"option_text": "Das Verständnis für die Bedeutung von Gesundheit und Gesundheitsvorsorge", "is_correct": true},
+          {"option_text": "Nur das Recht auf Krankenversicherung", "is_correct": false}
+        ],
+        "solution": "Das Verständnis für die Bedeutung von Gesundheit und Gesundheitsvorsorge"
+      },
+      {
+        "question_text": "Welche Aussage ist korrekt? Nach dem Zweiten Weltkrieg...",
+        "options": [
+          {"option_text": "War Österreich isoliert und hatte keine internationalen Beziehungen", "is_correct": false},
+          {"option_text": "Wurde Österreich Mitglied der Vereinten Nationen (UN)", "is_correct": true},
+          {"option_text": "Hat Österreich keine politische Veränderung erlebt", "is_correct": false}
+        ],
+        "solution": "Wurde Österreich Mitglied der Vereinten Nationen (UN)"
+      },
+      {
+        "question_text": "Welches Kapitel im Prüfungsteil 'Werte- und Orientierungswissen' behandelt das Zusammenleben in der Nachbarschaft?",
+        "options": [
+          {"option_text": "Arbeitswelt und Wirtschaft", "is_correct": false},
+          {"option_text": "Wohnen und Nachbarschaft", "is_correct": true},
+          {"option_text": "Bildung und Sprache", "is_correct": false}
+        ],
+        "solution": "Wohnen und Nachbarschaft"
+      },
+      {
+        "question_text": "Welche Bedeutung hat das Prinzip 'Gleichbehandlung vor dem Gesetz'?",
+        "options": [
+          {"option_text": "Nur bestimmte Gruppen haben Zugang zum Rechtssystem", "is_correct": false},
+          {"option_text": "Jeder Mensch wird vor dem Gesetz gleich behandelt", "is_correct": true},
+          {"option_text": "Es gibt keine Gleichbehandlung vor dem Gesetz", "is_correct": false}
+        ],
+        "solution": "Jeder Mensch wird vor dem Gesetz gleich behandelt"
+      },
+      {
+        "question_text": "Welche Religion ist in Österreich vorherrschend?",
+        "options": [
+          {"option_text": "Es gibt keine vorherrschende Religion", "is_correct": true},
+          {"option_text": "Nur das Christentum", "is_correct": false},
+          {"option_text": "Nur der Islam", "is_correct": false}
+        ],
+        "solution": "Es gibt keine vorherrschende Religion"
+      },
+      {
+        "question_text": "Warum ist das Verständnis für Bildung und Sprache wichtig?",
+        "options": [
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false},
+          {"option_text": "Freier und gleicher Zugang für alle", "is_correct": true},
+          {"option_text": "Nur für bestimmte Bevölkerungsgruppen zugänglich", "is_correct": false}
+        ],
+        "solution": "Freier und gleicher Zugang für alle"
+      },
+      {
+        "question_text": "Was bedeutet der Begriff 'Vielfalt' im Prüfungsteil 'Werte- und Orientierungswissen'?",
+        "options": [
+          {"option_text": "Verbot von kultureller Vielfalt", "is_correct": false},
+          {"option_text": "Anerkennung und Wertschätzung verschiedener Kulturen", "is_correct": true},
+          {"option_text": "Nur eine Kultur ist erlaubt", "is_correct": false}
+        ],
+        "solution": "Anerkennung und Wertschätzung verschiedener Kulturen"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Demokratie im österreichischen Gesellschaftssystem?",
+        "options": [
+          {"option_text": "Nur eine politische Partei hat die Macht", "is_correct": false},
+          {"option_text": "Die Macht liegt beim Volk durch Wahlen", "is_correct": true},
+          {"option_text": "Es gibt keine Demokratie in Österreich", "is_correct": false}
+        ],
+        "solution": "Die Macht liegt beim Volk durch Wahlen"
+      },
+
+
+      {
+        "question_text": "Welches Recht schützt die Meinungsfreiheit in Österreich?",
+        "options": [
+          {"option_text": "Das Recht auf Arbeit", "is_correct": false},
+          {"option_text": "Das Recht auf Freizeit", "is_correct": false},
+          {"option_text": "Die Europäische Menschenrechtskonvention", "is_correct": true}
+        ],
+        "solution": "Die Europäische Menschenrechtskonvention"
+      },
+      {
+        "question_text": "Was ist ein Ergebnis der kulturellen Vielfalt in Österreich?",
+        "options": [
+          {"option_text": "Nur Konflikte und Missverständnisse", "is_correct": false},
+          {"option_text": "Bereicherung durch verschiedene Traditionen und Perspektiven", "is_correct": true},
+          {"option_text": "Nur Verlust der eigenen Kultur", "is_correct": false}
+        ],
+        "solution": "Bereicherung durch verschiedene Traditionen und Perspektiven"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die österreichische Staatsbürgerschaft?",
+        "options": [
+          {"option_text": "Nur für politische Rechte", "is_correct": false},
+          {"option_text": "Nur für wirtschaftliche Privilegien", "is_correct": false},
+          {"option_text": "Rechte und Pflichten als Mitglied der österreichischen Gesellschaft", "is_correct": true}
+        ],
+        "solution": "Rechte und Pflichten als Mitglied der österreichischen Gesellschaft"
+      },
+      {
+        "question_text": "Was gehört zur Gesundheitsvorsorge in Österreich?",
+        "options": [
+          {"option_text": "Nur der Zugang zu Medikamenten", "is_correct": false},
+          {"option_text": "Auch die Prävention von Krankheiten und der Zugang zu medizinischer Versorgung", "is_correct": true},
+          {"option_text": "Nur die Pflicht zur Krankenversicherung", "is_correct": false}
+        ],
+        "solution": "Auch die Prävention von Krankheiten und der Zugang zu medizinischer Versorgung"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Zusammenarbeit in der Nachbarschaft?",
+        "options": [
+          {"option_text": "Nur für soziale Aktivitäten", "is_correct": false},
+          {"option_text": "Für ein positives Zusammenleben und gegenseitige Unterstützung", "is_correct": true},
+          {"option_text": "Nur für wirtschaftliche Zwecke", "is_correct": false}
+        ],
+        "solution": "Für ein positives Zusammenleben und gegenseitige Unterstützung"
+      },
+      {
+        "question_text": "Warum ist die Gleichbehandlung vor dem Gesetz wichtig?",
+        "options": [
+          {"option_text": "Nur um Konflikte zu vermeiden", "is_correct": false},
+          {"option_text": "Um sicherzustellen, dass jeder Mensch fair behandelt wird", "is_correct": true},
+          {"option_text": "Nur für politische Zwecke", "is_correct": false}
+        ],
+        "solution": "Um sicherzustellen, dass jeder Mensch fair behandelt wird"
+      },
+      {
+        "question_text": "Was umfasst der Begriff 'Bildung' im Prüfungsteil 'Werte- und Orientierungswissen'?",
+        "options": [
+          {"option_text": "Nur das Erlernen der deutschen Sprache", "is_correct": false},
+          {"option_text": "Die Vermittlung von Wissen und Fähigkeiten", "is_correct": true},
+          {"option_text": "Nur die Schulbildung", "is_correct": false}
+        ],
+        "solution": "Die Vermittlung von Wissen und Fähigkeiten"
+      },
+      {
+        "question_text": "Warum sind Menschenrechte in Österreich wichtig?",
+        "options": [
+          {"option_text": "Nur aufgrund internationaler Verpflichtungen", "is_correct": false},
+          {"option_text": "Aufgrund historischer Erfahrungen und zum Schutz aller Menschen", "is_correct": true},
+          {"option_text": "Nur für ausgewählte Bevölkerungsgruppen", "is_correct": false}
+        ],
+        "solution": "Aufgrund historischer Erfahrungen und zum Schutz aller Menschen"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Respekt und Zusammenarbeit in der Nachbarschaft'?",
+        "options": [
+          {"option_text": "Nur Respekt vor den eigenen Nachbarn", "is_correct": false},
+          {"option_text": "Ein respektvoller Umgang und die Bereitschaft zur Zusammenarbeit", "is_correct": true},
+          {"option_text": "Nur wirtschaftliche Zusammenarbeit", "is_correct": false}
+        ],
+        "solution": "Ein respektvoller Umgang und die Bereitschaft zur Zusammenarbeit"
+      },
+      {
+        "question_text": "Welche Rolle spielt die Arbeitswelt in der österreichischen Gesellschaft?",
+        "options": [
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false},
+          {"option_text": "Für alle, die in Österreich arbeiten, unabhängig von ihrer Herkunft", "is_correct": true},
+          {"option_text": "Nur für bestimmte Bevölkerungsgruppen zugänglich", "is_correct": false}
+        ],
+        "solution": "Für alle, die in Österreich arbeiten, unabhängig von ihrer Herkunft"
+      },
+      
+      
+      {
+        "question_text": "Welche Bedeutung hat der Begriff 'Integration' in Österreich?",
+        "options": [
+          {"option_text": "Nur die Anpassung an die österreichische Kultur", "is_correct": false},
+          {"option_text": "Die aktive Teilnahme am gesellschaftlichen Leben", "is_correct": true},
+          {"option_text": "Nur das Erlernen der deutschen Sprache", "is_correct": false}
+        ],
+        "solution": "Die aktive Teilnahme am gesellschaftlichen Leben"
+      },
+      {
+        "question_text": "Warum ist die Vielfalt des Zusammenlebens in Österreich wichtig?",
+        "options": [
+          {"option_text": "Nur aus touristischen Gründen", "is_correct": false},
+          {"option_text": "Bereicherung durch verschiedene Kulturen und Perspektiven", "is_correct": true},
+          {"option_text": "Nur für kulturelle Veranstaltungen", "is_correct": false}
+        ],
+        "solution": "Bereicherung durch verschiedene Kulturen und Perspektiven"
+      },
+      {
+        "question_text": "Welches Recht schützt die Privatsphäre in Österreich?",
+        "options": [
+          {"option_text": "Nur das Recht auf Meinungsfreiheit", "is_correct": false},
+          {"option_text": "Das Recht auf freie Entfaltung der Persönlichkeit", "is_correct": true},
+          {"option_text": "Nur das Recht auf Arbeit", "is_correct": false}
+        ],
+        "solution": "Das Recht auf freie Entfaltung der Persönlichkeit"
+      },
+      {
+        "question_text": "Was bedeutet der Begriff 'Rechtssystem'?",
+        "options": [
+          {"option_text": "Nur die Gesetze in Österreich", "is_correct": false},
+          {"option_text": "Die Gesamtheit der Gesetze und der Institutionen, die diese umsetzen", "is_correct": true},
+          {"option_text": "Nur das Strafrecht in Österreich", "is_correct": false}
+        ],
+        "solution": "Die Gesamtheit der Gesetze und der Institutionen, die diese umsetzen"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Gleichberechtigung'?",
+        "options": [
+          {"option_text": "Nur gleiche Chancen für Männer und Frauen", "is_correct": false},
+          {"option_text": "Gleiche Rechte und Pflichten für alle Menschen", "is_correct": true},
+          {"option_text": "Nur gleiche Bezahlung am Arbeitsplatz", "is_correct": false}
+        ],
+        "solution": "Gleiche Rechte und Pflichten für alle Menschen"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Freiheit der Religionsausübung in Österreich?",
+        "options": [
+          {"option_text": "Nur für die christliche Religion", "is_correct": false},
+          {"option_text": "Für alle Menschen, unabhängig von ihrer Religion", "is_correct": true},
+          {"option_text": "Nur für ausgewählte Religionsgemeinschaften", "is_correct": false}
+        ],
+        "solution": "Für alle Menschen, unabhängig von ihrer Religion"
+      },
+      {
+        "question_text": "Welche Rolle spielt die Bildung im Prozess der Integration?",
+        "options": [
+          {"option_text": "Nur für bestimmte Bevölkerungsgruppen zugänglich", "is_correct": false},
+          {"option_text": "Die Förderung von Wissen, Fähigkeiten und Integration in die Gesellschaft", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Die Förderung von Wissen, Fähigkeiten und Integration in die Gesellschaft"
+      },
+      {
+        "question_text": "Was beinhaltet das Prinzip 'Gesetzestreue'?",
+        "options": [
+          {"option_text": "Nur die Pflicht zur Steuerzahlung", "is_correct": false},
+          {"option_text": "Das Befolgen der Gesetze", "is_correct": true},
+          {"option_text": "Nur das Recht auf Meinungsfreiheit", "is_correct": false}
+        ],
+        "solution": "Das Befolgen der Gesetze"
+      },
+      {
+        "question_text": "Welches Recht schützt vor Diskriminierung in Österreich?",
+        "options": [
+          {"option_text": "Nur das Recht auf Arbeit", "is_correct": false},
+          {"option_text": "Das Recht auf Gleichbehandlung und Nichtdiskriminierung", "is_correct": true},
+          {"option_text": "Nur das Recht auf Meinungsfreiheit", "is_correct": false}
+        ],
+        "solution": "Das Recht auf Gleichbehandlung und Nichtdiskriminierung"
+      },
+      {
+        "question_text": "Was umfasst der Begriff 'Wohnen und Nachbarschaft' im Prüfungsteil 'Werte- und Orientierungswissen'?",
+        "options": [
+          {"option_text": "Nur das Recht auf eine Wohnung", "is_correct": false},
+          {"option_text": "Respektvolles Zusammenleben und die Bedeutung der Nachbarschaft", "is_correct": true},
+          {"option_text": "Nur das Recht auf Freizeit", "is_correct": false}
+        ],
+        "solution": "Respektvolles Zusammenleben und die Bedeutung der Nachbarschaft"
+      },
+
+
+      {
+        "question_text": "Welche Rolle spielt die Freiheit der Meinungsäußerung in der österreichischen Gesellschaft?",
+        "options": [
+          {"option_text": "Nur für ausgewählte Gruppen", "is_correct": false},
+          {"option_text": "Das Recht, seine Meinung frei zu äußern, ist für alle Menschen wichtig", "is_correct": true},
+          {"option_text": "Nur für politische Parteien", "is_correct": false}
+        ],
+        "solution": "Das Recht, seine Meinung frei zu äußern, ist für alle Menschen wichtig"
+      },
+      {
+        "question_text": "Warum ist die Sprache ein wichtiges Thema im Integrationsprozess?",
+        "options": [
+          {"option_text": "Nur für den Zugang zu Bildung", "is_correct": false},
+          {"option_text": "Sprache als Schlüssel zur Teilnahme am gesellschaftlichen Leben", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Sprache als Schlüssel zur Teilnahme am gesellschaftlichen Leben"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Rechtsstaatlichkeit in Österreich?",
+        "options": [
+          {"option_text": "Nur für ausgewählte Gruppen", "is_correct": false},
+          {"option_text": "Alle Menschen haben die gleichen Rechte vor dem Gesetz", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Alle Menschen haben die gleichen Rechte vor dem Gesetz"
+      },
+      {
+        "question_text": "Was bedeutet 'Meinungsfreiheit'?",
+        "options": [
+          {"option_text": "Nur das Recht auf freie Meinungsäußerung für politische Parteien", "is_correct": false},
+          {"option_text": "Das Recht, eigene Meinungen ohne staatliche Zensur zu äußern", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Das Recht, eigene Meinungen ohne staatliche Zensur zu äußern"
+      },
+      {
+        "question_text": "Was beinhaltet das Prinzip 'Recht auf Privatsphäre'?",
+        "options": [
+          {"option_text": "Nur für bestimmte Gruppen", "is_correct": false},
+          {"option_text": "Das Recht, vor unberechtigten Eingriffen in die persönliche Lebenssphäre geschützt zu sein", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Das Recht, vor unberechtigten Eingriffen in die persönliche Lebenssphäre geschützt zu sein"
+      },
+      {
+        "question_text": "Warum ist die Religionsfreiheit wichtig?",
+        "options": [
+          {"option_text": "Nur für ausgewählte Religionsgemeinschaften", "is_correct": false},
+          {"option_text": "Das Recht, seine Religion frei zu wählen und auszuüben", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Das Recht, seine Religion frei zu wählen und auszuüben"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Gleichberechtigung von Mann und Frau'?",
+        "options": [
+          {"option_text": "Nur gleiche Bezahlung am Arbeitsplatz", "is_correct": false},
+          {"option_text": "Gleiche Rechte und Pflichten für Frauen und Männer", "is_correct": true},
+          {"option_text": "Nur für bestimmte Gruppen", "is_correct": false}
+        ],
+        "solution": "Gleiche Rechte und Pflichten für Frauen und Männer"
+      },
+      {
+        "question_text": "Warum ist die Zusammenarbeit in der Nachbarschaft wichtig?",
+        "options": [
+          {"option_text": "Nur für soziale Aktivitäten", "is_correct": false},
+          {"option_text": "Förderung eines positiven Zusammenlebens und gemeinsame Unterstützung", "is_correct": true},
+          {"option_text": "Nur für wirtschaftliche Zwecke", "is_correct": false}
+        ],
+        "solution": "Förderung eines positiven Zusammenlebens und gemeinsame Unterstützung"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Meinungsvielfalt in einer Demokratie?",
+        "options": [
+          {"option_text": "Nur eine bestimmte Meinung ist erlaubt", "is_correct": false},
+          {"option_text": "Verschiedene Meinungen tragen zur Meinungsbildung bei und stärken die Demokratie", "is_correct": true},
+          {"option_text": "Nur für politische Parteien", "is_correct": false}
+        ],
+        "solution": "Verschiedene Meinungen tragen zur Meinungsbildung bei und stärken die Demokratie"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Gleichberechtigung aller Menschen in der österreichischen Gesellschaft?",
+        "options": [
+          {"option_text": "Nur gleiche Chancen für ausgewählte Gruppen", "is_correct": false},
+          {"option_text": "Alle Menschen haben die gleichen Rechte und Pflichten unabhängig von ihrer Herkunft", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Alle Menschen haben die gleichen Rechte und Pflichten unabhängig von ihrer Herkunft"
+      },
+
+
+      {
+        "question_text": "Welche Rolle spielt die kulturelle Vielfalt in Österreich?",
+        "options": [
+          {"option_text": "Nur für kulturelle Veranstaltungen", "is_correct": false},
+          {"option_text": "Bereicherung durch verschiedene Kulturen und Perspektiven", "is_correct": true},
+          {"option_text": "Nur für ausgewählte Bevölkerungsgruppen", "is_correct": false}
+        ],
+        "solution": "Bereicherung durch verschiedene Kulturen und Perspektiven"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Gleichheit vor dem Gesetz'?",
+        "options": [
+          {"option_text": "Nur für bestimmte Gruppen", "is_correct": false},
+          {"option_text": "Alle Menschen haben die gleichen Rechte vor dem Gesetz", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Alle Menschen haben die gleichen Rechte vor dem Gesetz"
+      },
+      {
+        "question_text": "Warum ist die Einhaltung der Verkehrsregeln wichtig?",
+        "options": [
+          {"option_text": "Nur um Strafen zu vermeiden", "is_correct": false},
+          {"option_text": "Für die Sicherheit aller Verkehrsteilnehmer", "is_correct": true},
+          {"option_text": "Nur für ausgewählte Gruppen", "is_correct": false}
+        ],
+        "solution": "Für die Sicherheit aller Verkehrsteilnehmer"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Religionsfreiheit in Österreich?",
+        "options": [
+          {"option_text": "Nur für ausgewählte Religionsgemeinschaften", "is_correct": false},
+          {"option_text": "Das Recht, seine Religion frei zu wählen und auszuüben", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Das Recht, seine Religion frei zu wählen und auszuüben"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Meinungsvielfalt'?",
+        "options": [
+          {"option_text": "Nur eine bestimmte Meinung ist erlaubt", "is_correct": false},
+          {"option_text": "Verschiedene Meinungen tragen zur Meinungsbildung bei und stärken die Demokratie", "is_correct": true},
+          {"option_text": "Nur für politische Parteien", "is_correct": false}
+        ],
+        "solution": "Verschiedene Meinungen tragen zur Meinungsbildung bei und stärken die Demokratie"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Arbeitswelt in Österreich?",
+        "options": [
+          {"option_text": "Nur für bestimmte Bevölkerungsgruppen zugänglich", "is_correct": false},
+          {"option_text": "Für alle, die in Österreich arbeiten, unabhängig von ihrer Herkunft", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Für alle, die in Österreich arbeiten, unabhängig von ihrer Herkunft"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Gesetzestreue'?",
+        "options": [
+          {"option_text": "Nur die Pflicht zur Steuerzahlung", "is_correct": false},
+          {"option_text": "Das Befolgen der Gesetze", "is_correct": true},
+          {"option_text": "Nur das Recht auf Meinungsfreiheit", "is_correct": false}
+        ],
+        "solution": "Das Befolgen der Gesetze"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Bildung in der Integration?",
+        "options": [
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false},
+          {"option_text": "Förderung von Wissen, Fähigkeiten und Integration in die Gesellschaft", "is_correct": true},
+          {"option_text": "Nur für bestimmte Bevölkerungsgruppen zugänglich", "is_correct": false}
+        ],
+        "solution": "Förderung von Wissen, Fähigkeiten und Integration in die Gesellschaft"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Respekt vor Vielfalt'?",
+        "options": [
+          {"option_text": "Nur Respekt vor bestimmten Gruppen", "is_correct": false},
+          {"option_text": "Ein respektvoller Umgang und die Akzeptanz unterschiedlicher Lebensweisen", "is_correct": true},
+          {"option_text": "Nur für bestimmte Veranstaltungen", "is_correct": false}
+        ],
+        "solution": "Ein respektvoller Umgang und die Akzeptanz unterschiedlicher Lebensweisen"
+      },
+      {
+        "question_text": "Warum ist die Gleichberechtigung vor dem Gesetz wichtig?",
+        "options": [
+          {"option_text": "Nur um Konflikte zu vermeiden", "is_correct": false},
+          {"option_text": "Um sicherzustellen, dass jeder Mensch fair behandelt wird", "is_correct": true},
+          {"option_text": "Nur für politische Zwecke", "is_correct": false}
+        ],
+        "solution": "Um sicherzustellen, dass jeder Mensch fair behandelt wird"
+      },
+
+
+      {
+        "question_text": "Warum ist die Gesundheit ein wichtiges Thema in der Gesellschaft?",
+        "options": [
+          {"option_text": "Nur für bestimmte Bevölkerungsgruppen", "is_correct": false},
+          {"option_text": "Weil sie das Wohlbefinden und die Leistungsfähigkeit beeinflusst", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Weil sie das Wohlbefinden und die Leistungsfähigkeit beeinflusst"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Einhaltung der Umweltschutzregeln?",
+        "options": [
+          {"option_text": "Nur für bestimmte Gruppen", "is_correct": false},
+          {"option_text": "Zum Schutz der Umwelt und der Lebensqualität aller Menschen", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Zum Schutz der Umwelt und der Lebensqualität aller Menschen"
+      },
+      {
+        "question_text": "Warum ist die Zusammenarbeit in der Arbeitswelt wichtig?",
+        "options": [
+          {"option_text": "Nur für bestimmte Berufsgruppen", "is_correct": false},
+          {"option_text": "Förderung eines positiven Arbeitsumfelds und effizienten Arbeitens", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Förderung eines positiven Arbeitsumfelds und effizienten Arbeitens"
+      },
+      {
+        "question_text": "Welche Rolle spielt die Familie in der österreichischen Gesellschaft?",
+        "options": [
+          {"option_text": "Nur für ausgewählte Bevölkerungsgruppen", "is_correct": false},
+          {"option_text": "Wichtige soziale Einheit und Stütze im Leben der Menschen", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Wichtige soziale Einheit und Stütze im Leben der Menschen"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Chancengleichheit'?",
+        "options": [
+          {"option_text": "Nur gleiche Chancen für ausgewählte Gruppen", "is_correct": false},
+          {"option_text": "Allen Menschen stehen die gleichen Möglichkeiten offen", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Allen Menschen stehen die gleichen Möglichkeiten offen"
+      },
+      {
+        "question_text": "Warum ist die Einhaltung der Verkehrsregeln wichtig?",
+        "options": [
+          {"option_text": "Nur um Strafen zu vermeiden", "is_correct": false},
+          {"option_text": "Für die Sicherheit aller Verkehrsteilnehmer", "is_correct": true},
+          {"option_text": "Nur für bestimmte Gruppen", "is_correct": false}
+        ],
+        "solution": "Für die Sicherheit aller Verkehrsteilnehmer"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Bildung in der Integration?",
+        "options": [
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false},
+          {"option_text": "Förderung von Wissen, Fähigkeiten und Integration in die Gesellschaft", "is_correct": true},
+          {"option_text": "Nur für bestimmte Bevölkerungsgruppen zugänglich", "is_correct": false}
+        ],
+        "solution": "Förderung von Wissen, Fähigkeiten und Integration in die Gesellschaft"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Respekt vor Vielfalt'?",
+        "options": [
+          {"option_text": "Nur Respekt vor bestimmten Gruppen", "is_correct": false},
+          {"option_text": "Ein respektvoller Umgang und die Akzeptanz unterschiedlicher Lebensweisen", "is_correct": true},
+          {"option_text": "Nur für bestimmte Veranstaltungen", "is_correct": false}
+        ],
+        "solution": "Ein respektvoller Umgang und die Akzeptanz unterschiedlicher Lebensweisen"
+      },
+      {
+        "question_text": "Warum ist die Zusammenarbeit in der Nachbarschaft wichtig?",
+        "options": [
+          {"option_text": "Nur für soziale Aktivitäten", "is_correct": false},
+          {"option_text": "Förderung eines positiven Zusammenlebens und gemeinsame Unterstützung", "is_correct": true},
+          {"option_text": "Nur für wirtschaftliche Zwecke", "is_correct": false}
+        ],
+        "solution": "Förderung eines positiven Zusammenlebens und gemeinsame Unterstützung"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Gleichberechtigung aller Menschen in der österreichischen Gesellschaft?",
+        "options": [
+          {"option_text": "Nur gleiche Chancen für ausgewählte Gruppen", "is_correct": false},
+          {"option_text": "Alle Menschen haben die gleichen Rechte und Pflichten unabhängig von ihrer Herkunft", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Alle Menschen haben die gleichen Rechte und Pflichten unabhängig von ihrer Herkunft"
+      },
+
+
+      {
+        "question_text": "Warum ist die Integration in die Arbeitswelt wichtig?",
+        "options": [
+          {"option_text": "Nur für bestimmte Berufsgruppen", "is_correct": false},
+          {"option_text": "Förderung von wirtschaftlicher Selbstständigkeit und Teilnahme am gesellschaftlichen Leben", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Förderung von wirtschaftlicher Selbstständigkeit und Teilnahme am gesellschaftlichen Leben"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Recht auf Privatsphäre'?",
+        "options": [
+          {"option_text": "Nur für bestimmte Gruppen", "is_correct": false},
+          {"option_text": "Das Recht, vor unberechtigten Eingriffen in die persönliche Lebenssphäre geschützt zu sein", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Das Recht, vor unberechtigten Eingriffen in die persönliche Lebenssphäre geschützt zu sein"
+      },
+      {
+        "question_text": "Warum ist die Religionsfreiheit wichtig?",
+        "options": [
+          {"option_text": "Nur für ausgewählte Religionsgemeinschaften", "is_correct": false},
+          {"option_text": "Das Recht, seine Religion frei zu wählen und auszuüben", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Das Recht, seine Religion frei zu wählen und auszuüben"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Gleichberechtigung von Mann und Frau'?",
+        "options": [
+          {"option_text": "Nur gleiche Bezahlung am Arbeitsplatz", "is_correct": false},
+          {"option_text": "Gleiche Rechte und Pflichten für Frauen und Männer", "is_correct": true},
+          {"option_text": "Nur für bestimmte Gruppen", "is_correct": false}
+        ],
+        "solution": "Gleiche Rechte und Pflichten für Frauen und Männer"
+      },
+      {
+        "question_text": "Warum ist die Zusammenarbeit in der Nachbarschaft wichtig?",
+        "options": [
+          {"option_text": "Nur für soziale Aktivitäten", "is_correct": false},
+          {"option_text": "Förderung eines positiven Zusammenlebens und gemeinsame Unterstützung", "is_correct": true},
+          {"option_text": "Nur für wirtschaftliche Zwecke", "is_correct": false}
+        ],
+        "solution": "Förderung eines positiven Zusammenlebens und gemeinsame Unterstützung"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Meinungsvielfalt in einer Demokratie?",
+        "options": [
+          {"option_text": "Nur eine bestimmte Meinung ist erlaubt", "is_correct": false},
+          {"option_text": "Verschiedene Meinungen tragen zur Meinungsbildung bei und stärken die Demokratie", "is_correct": true},
+          {"option_text": "Nur für politische Parteien", "is_correct": false}
+        ],
+        "solution": "Verschiedene Meinungen tragen zur Meinungsbildung bei und stärken die Demokratie"
+      },
+      {
+        "question_text": "Warum ist die Gesundheit ein wichtiges Thema in der Gesellschaft?",
+        "options": [
+          {"option_text": "Nur für bestimmte Bevölkerungsgruppen", "is_correct": false},
+          {"option_text": "Weil sie das Wohlbefinden und die Leistungsfähigkeit beeinflusst", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Weil sie das Wohlbefinden und die Leistungsfähigkeit beeinflusst"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Rechtsstaatlichkeit in Österreich?",
+        "options": [
+          {"option_text": "Nur für ausgewählte Gruppen", "is_correct": false},
+          {"option_text": "Alle Menschen haben die gleichen Rechte vor dem Gesetz", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Alle Menschen haben die gleichen Rechte vor dem Gesetz"
+      },
+      {
+        "question_text": "Was bedeutet 'Meinungsfreiheit'?",
+        "options": [
+          {"option_text": "Nur das Recht auf freie Meinungsäußerung für politische Parteien", "is_correct": false},
+          {"option_text": "Das Recht, eigene Meinungen ohne staatliche Zensur zu äußern", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Das Recht, eigene Meinungen ohne staatliche Zensur zu äußern"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Meinungsvielfalt in einer Demokratie?",
+        "options": [
+          {"option_text": "Nur eine bestimmte Meinung ist erlaubt", "is_correct": false},
+          {"option_text": "Verschiedene Meinungen tragen zur Meinungsbildung bei und stärken die Demokratie", "is_correct": true},
+          {"option_text": "Nur für politische Parteien", "is_correct": false}
+        ],
+        "solution": "Verschiedene Meinungen tragen zur Meinungsbildung bei und stärken die Demokratie"
+      },
+
+
+
+      {
+        "question_text": "Warum ist die Vielfalt des Zusammenlebens in Österreich wichtig?",
+        "options": [
+          {"option_text": "Nur für ausgewählte Bevölkerungsgruppen", "is_correct": false},
+          {"option_text": "Bereicherung durch verschiedene Lebensweisen, Traditionen und Kulturen", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Bereicherung durch verschiedene Lebensweisen, Traditionen und Kulturen"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Respekt vor Vielfalt'?",
+        "options": [
+          {"option_text": "Nur Respekt vor bestimmten Gruppen", "is_correct": false},
+          {"option_text": "Ein respektvoller Umgang und die Akzeptanz unterschiedlicher Lebensweisen", "is_correct": true},
+          {"option_text": "Nur für bestimmte Veranstaltungen", "is_correct": false}
+        ],
+        "solution": "Ein respektvoller Umgang und die Akzeptanz unterschiedlicher Lebensweisen"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Bildung in der Integration?",
+        "options": [
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false},
+          {"option_text": "Förderung von Wissen, Fähigkeiten und Integration in die Gesellschaft", "is_correct": true},
+          {"option_text": "Nur für bestimmte Bevölkerungsgruppen zugänglich", "is_correct": false}
+        ],
+        "solution": "Förderung von Wissen, Fähigkeiten und Integration in die Gesellschaft"
+      },
+      {
+        "question_text": "Warum ist die Einhaltung der Umweltschutzregeln wichtig?",
+        "options": [
+          {"option_text": "Nur für bestimmte Gruppen", "is_correct": false},
+          {"option_text": "Zum Schutz der Umwelt und der Lebensqualität aller Menschen", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Zum Schutz der Umwelt und der Lebensqualität aller Menschen"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Religionsfreiheit in Österreich?",
+        "options": [
+          {"option_text": "Nur für ausgewählte Religionsgemeinschaften", "is_correct": false},
+          {"option_text": "Das Recht, seine Religion frei zu wählen und auszuüben", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Das Recht, seine Religion frei zu wählen und auszuüben"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Gleichberechtigung von Mann und Frau'?",
+        "options": [
+          {"option_text": "Nur gleiche Bezahlung am Arbeitsplatz", "is_correct": false},
+          {"option_text": "Gleiche Rechte und Pflichten für Frauen und Männer", "is_correct": true},
+          {"option_text": "Nur für bestimmte Gruppen", "is_correct": false}
+        ],
+        "solution": "Gleiche Rechte und Pflichten für Frauen und Männer"
+      },
+      {
+        "question_text": "Warum ist die Zusammenarbeit in der Arbeitswelt wichtig?",
+        "options": [
+          {"option_text": "Nur für bestimmte Berufsgruppen", "is_correct": false},
+          {"option_text": "Förderung eines positiven Arbeitsumfelds und effizienten Arbeitens", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Förderung eines positiven Arbeitsumfelds und effizienten Arbeitens"
+      },
+      {
+        "question_text": "Was bedeutet das Prinzip 'Gesetzestreue'?",
+        "options": [
+          {"option_text": "Nur die Pflicht zur Steuerzahlung", "is_correct": false},
+          {"option_text": "Das Befolgen der Gesetze", "is_correct": true},
+          {"option_text": "Nur das Recht auf Meinungsfreiheit", "is_correct": false}
+        ],
+        "solution": "Das Befolgen der Gesetze"
+      },
+      {
+        "question_text": "Welche Bedeutung hat die Familie in der österreichischen Gesellschaft?",
+        "options": [
+          {"option_text": "Nur für ausgewählte Bevölkerungsgruppen", "is_correct": false},
+          {"option_text": "Wichtige soziale Einheit und Stütze im Leben der Menschen", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Wichtige soziale Einheit und Stütze im Leben der Menschen"
+      },
+      {
+        "question_text": "Warum ist die Gleichberechtigung vor dem Gesetz wichtig?",
+        "options": [
+          {"option_text": "Nur um Konflikte zu vermeiden", "is_correct": false},
+          {"option_text": "Um sicherzustellen, dass jeder Mensch fair behandelt wird", "is_correct": true},
+          {"option_text": "Nur für politische Zwecke", "is_correct": false}
+        ],
+        "solution": "Um sicherzustellen, dass jeder Mensch fair behandelt wird"
+      },
+      {
+        "question_text": "Warum ist die Integration in die Arbeitswelt wichtig?",
+        "options": [
+          {"option_text": "Nur für bestimmte Berufsgruppen", "is_correct": false},
+          {"option_text": "Förderung von wirtschaftlicher Selbstständigkeit und Teilnahme am gesellschaftlichen Leben", "is_correct": true},
+          {"option_text": "Nur für österreichische Staatsbürgerinnen und Staatsbürger", "is_correct": false}
+        ],
+        "solution": "Förderung von wirtschaftlicher Selbstständigkeit und Teilnahme am gesellschaftlichen Leben"
+      }
+      
+      
+      
+      
+      
+      
+
+
+
+
+    ]
+  }
+  
